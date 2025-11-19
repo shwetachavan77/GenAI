@@ -12,7 +12,21 @@ This project is built with:
 - **`Streamlit`** interface for easy interaction with your document  
 
 ## Demo
-![Demo](./rag.gif)
+![Demo](./demo/demo.gif)
+
+## Demo Example
+
+Here I am using the famous arXiv paper **`Attention Is All You Need`** as a Document. 
+Here are some of the questions I asked my RAG Assistant. I have attached some demo examples too. 
+- What is the title of this paper?
+- What are the advantages of self-attention over RNNs?
+- Give a high-level summary of the paper.
+- What problem does the Transformer architecture solve?
+![Demo](./demo/demo-img-01.png)
+
+
+- Explain multi-head attention from the paper.
+![Demo](./demo/demo-img-02.png)
 
 ## How it works
 
