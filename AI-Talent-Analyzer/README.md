@@ -27,12 +27,12 @@ https://github.com/user-attachments/assets/bcc6bd1b-a0f7-4815-8fe3-8c7dedd0513a
 ## Architecture Overview
 The system uses a modular multi-agent pipeline:
 
-- **ExtractorAgent** — Extracts text + contact info from resumes  
-- **AnalyzerAgent** — Parses skills, experience, and education
-- **MatcherAgent** — Matches candidates to jobs using 80% LLM semantic score + 20% fuzzy & keyword logic  
-- **ScreenerAgent** — Scores experience fit & role suitability  
-- **RecommenderAgent** — Generates a final recommendation summary  
-- **OrchestratorAgent** — Coordinates the entire pipeline  
+- **ExtractorAgent** - Extracts text + contact info from resumes  
+- **AnalyzerAgent** - Parses skills, experience, and education
+- **MatcherAgent** - Matches candidates to jobs using 80% LLM semantic score + 20% fuzzy & keyword logic  
+- **ScreenerAgent** - Scores experience fit & role suitability  
+- **RecommenderAgent** - Generates a final recommendation summary  
+- **OrchestratorAgent** - Coordinates the entire pipeline  
 
 All agents return **strict JSON** to ensure reliability
 
