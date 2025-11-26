@@ -20,9 +20,7 @@ Runs fully offline using **Ollama + LLaMA 3.2**
 
 ---
 
-![Git Demo](./demo/git-demo.gif)
-
-
+https://github.com/user-attachments/assets/bcc6bd1b-a0f7-4815-8fe3-8c7dedd0513a
 
 ---
 
