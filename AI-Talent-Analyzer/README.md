@@ -20,10 +20,8 @@ Runs fully offline using **Ollama + LLaMA 3.2**
 
 ---
 
-<video width="400" controls>
-  <source src="demo/demo.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
+![Git Demo](./demo/git-demo.gif)
+
 
 
 ---
